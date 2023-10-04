@@ -11,4 +11,4 @@ def twoSum(nums: List[int], target: int) -> List[int]:
         
         num_dict[num] = i
 
-    return []
+    return
